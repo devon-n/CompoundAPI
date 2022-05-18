@@ -1,0 +1,22 @@
+{
+  "name": "defiapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "dotenv": "^16.0.1",
+    "koa": "^2.13.4",
+    "web3": "^1.7.3"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
